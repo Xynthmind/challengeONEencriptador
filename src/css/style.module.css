@@ -7,17 +7,19 @@
 .headerP{
     text-align: center;
     height: 11vh;
-    margin-top: -2%;
+    margin-top: 0%;
 }
 .txtArea{
     float: left;
+    margin-left: 3%;
     height: 60%;
-    width: 50%;
-    background-color: white;
+    width: 35%;
+    
 }
 .txtResult{
     float: right;
+    margin-right: 3%;
     height: 60%;
-    width: 50%;
+    width: 35%;
     background-color: rgb(158, 153, 153);
 }
